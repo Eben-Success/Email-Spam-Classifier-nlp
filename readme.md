@@ -41,4 +41,8 @@ streamlit run app.py
 ```
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at aebenezer237@gmail.com
+
 
