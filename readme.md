@@ -5,11 +5,10 @@ AI web application that classifies an input text into spam or not spam.
 <hr>
 
 ### Dependencies
-`python` <br>
+`python`
 `nltk`
-<br>
-`streamlit` <br>
-`sklearn` <br>
+`streamlit` 
+`sklearn`
 `seaborn`
 
 <hr>
@@ -19,19 +18,23 @@ AI web application that classifies an input text into spam or not spam.
 >- Ensure you have python install
 
 * Create a virtual environment <br>
-```py -m venv env```
+```py -m venv env
+```
 
 * Activate virtual environment
 
-```.\env\Scripts\activate```
+```.\env\Scripts\activate
+```
 
 * Install the dependencies from the requirements.txt <br>
 
-```pip install -r requirement.txt```
+```pip install -r requirement.txt
+```
 
 * Start the streamlit server
 Run <br>
-```streamlit run app.py```
+```streamlit run app.py
+```
 
 
 
