@@ -13,7 +13,7 @@ This project is an Email/SMS Spam Detector that utilizes natural language proces
 
 <hr>
 
-### How to set up the environment for this project
+### How to setup the project
 
 >- Ensure you have python install
 
