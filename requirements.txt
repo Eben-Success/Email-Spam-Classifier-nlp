@@ -1,3 +1,6 @@
 streamlit
 nltk
-sklearn
+scikit-learn
+seaborn
+wordcloud
+xgboost
