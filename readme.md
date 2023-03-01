@@ -1,6 +1,6 @@
 # Email / SMS spam Classifier
 
-AI web application that classifies an input text into spam or not spam.
+This project is an Email/SMS Spam Detector that utilizes natural language processing techniques with the help of Python's NLTK and scikit-learn libraries. The program analyzes the content of an email or SMS and determines whether it is spam or not. The application is built using the Streamlit framework, providing a user-friendly interface for inputting text and displaying results. The project also uses the Pandas library for data manipulation and preprocessing.
 
 <hr>
 
