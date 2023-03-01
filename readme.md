@@ -23,12 +23,14 @@ AI web application that classifies an input text into spam or not spam.
 
 * Activate virtual environment
 
-```.\env\Scripts\activate
+```bash
+.\env\Scripts\activate
 ```
 
 * Install the dependencies from the requirements.txt <br>
 
-```pip install -r requirement.txt
+```bash
+pip install -r requirement.txt
 ```
 
 * Start the streamlit server
