@@ -1,6 +1,6 @@
 # Email / SMS spam Classifier
 
-!(readme_img)[./SPAM-Filtering copy-02.png]
+!(readme_img)[https://github.com/Eben-Success/Email-Spam-Classifier-nlp/blob/master/SPAM-Filtering%20copy-02.png]
 
 This project is an Email/SMS Spam Detector that utilizes natural language processing techniques with the help of Python's `nltk` and `scikit-learn` libraries. The program analyzes the content of an email or SMS and determines whether it is spam or not. The application is built using the `streamlit` framework, providing a user-friendly interface for inputting text and displaying results. The project also uses the `Pandas` library for data manipulation and preprocessing.
 
